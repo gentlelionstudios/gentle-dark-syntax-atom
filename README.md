@@ -5,5 +5,7 @@ The Gentle Dark Syntax Theme is a pleasing, dark theme for the Atom IDE.  This t
 **This theme is under active development.  Expect improvements and tweaking until I'm satisfied. ;-)**
 
 Built for fun by Gentle Lion Studios
+
 [gentlelionstudios.com](https://www.gentlelionstudios.com)
+
 [twitter.com/glstudios](https://twitter.com/glstudios)
