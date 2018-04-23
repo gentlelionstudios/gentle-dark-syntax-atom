@@ -1,7 +1,7 @@
 {
   "name": "gentle-dark-syntax",
   "theme": "syntax",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "author": "Brian Gamble",
   "description": "The Gentle Dark Syntax Theme is a pleasing, dark theme for the Atom IDE.",
   "keywords": [
