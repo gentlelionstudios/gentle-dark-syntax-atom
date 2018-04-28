@@ -8,8 +8,8 @@
 // General colors
 @syntax-text-color: @very-light-gray;
 @syntax-cursor-color: white;
-@syntax-selection-color: lighten(@base-background-color, 7%);
-@syntax-background-color: darken(@base-background-color, 3%);
+@syntax-selection-color: lighten(@base-background-color, 25%, relative);
+@syntax-background-color: darken(@base-background-color, 15%, relative);
 
 // Guide colors
 @syntax-wrap-guide-color: @dark-gray;
@@ -21,9 +21,9 @@
 @syntax-result-marker-color-selected: white;
 
 // Gutter colors
-@syntax-gutter-text-color: @light-gray;
+@syntax-gutter-text-color: @gray;
 @syntax-gutter-text-color-selected: @very-light-gray;
-@syntax-gutter-background-color: lighten(@syntax-background-color, 6%);
+@syntax-gutter-background-color: @syntax-selection-color;
 @syntax-gutter-background-color-selected: @syntax-background-color;
 
 // For git diff info. i.e. in the gutter
