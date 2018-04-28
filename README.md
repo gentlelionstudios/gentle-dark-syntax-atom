@@ -19,8 +19,6 @@ apm install gentle-dark-syntax
 
 ---
 
-Built for fun by Gentle Lion Studios
-
-[gentlelionstudios.com](https://www.gentlelionstudios.com)
-
+Built for fun by Gentle Lion Studios<br>
+[gentlelionstudios.com](https://www.gentlelionstudios.com)<br>
 [twitter.com/glionstudios](https://twitter.com/glionstudios)
