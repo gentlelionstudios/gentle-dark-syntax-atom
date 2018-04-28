@@ -7,11 +7,15 @@ The Gentle Dark Syntax Theme is a pleasing, dark theme for the Atom IDE.  It pai
 ## Installation
 
 ### Atom
-Go to **Preferences** > **Settings** > **Install**, type `gentle-dark-syntax` in the input field, and select the **Themes** button.  Click **Install** in the card for gentle-dark-syntax.
+- Go to **Preferences** > **Settings** > **Install**, type `gentle-dark-syntax` in the input field, and select the **Themes** button.
+- Click **Install** in the card for gentle-dark-syntax.
 
 ### Command-line
-Go to a command line prompt and type the following:
-`apm install gentle-dark-syntax`
+Go to a command prompt and type the following:
+
+```sh
+apm install gentle-dark-syntax
+```
 
 ---
 
