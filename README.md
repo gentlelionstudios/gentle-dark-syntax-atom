@@ -1,3 +1,9 @@
+**ARCHIVED**
+
+GitHub is [sunsetting](https://github.blog/2022-06-08-sunsetting-atom/) Atom on December 15, 2022.  Thanks to everyone who enjoyed this theme.
+
+---
+
 # Gentle Dark Syntax Theme
 
 <img src="https://github.com/gentlelionstudios/gentle-dark-syntax-atom/raw/master/images/gentle-dark-syntax-theme.png" width="761" alt="Image of the Gentle Dark Syntax Theme">
